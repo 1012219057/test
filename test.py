@@ -67,11 +67,3 @@ if __name__ == '__main__':
             time.sleep(round(random.uniform(1, 1.7)))
         f2.write(']')
 
-    # with open('phone_NO.py', 'w') as f2:
-    #     f2.write('\nUA = [\n')
-    #
-    #     for ua in phone_UA.UA:
-    #         if ua not in phone_UA_ok.UA:
-    #             f2.write(f"\t'{ua}',\n")
-    #
-    #     f2.write(']')
