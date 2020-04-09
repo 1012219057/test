@@ -2,7 +2,7 @@ import smtplib  # 发送邮件模块
 from email.mime.text import MIMEText  # 定义邮件内容
 from email.header import Header  # 定义邮件标题
 
-
+"""fffdgdgdg"""
 def send_email(spider_name):
     # 发送邮箱服务器
     smtpserver = 'smtp.163.com'
