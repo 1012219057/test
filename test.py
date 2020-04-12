@@ -1,11 +1,3 @@
-
-
-"""
-
-Android
-iPhone
-
-"""
 import random
 import time
 
